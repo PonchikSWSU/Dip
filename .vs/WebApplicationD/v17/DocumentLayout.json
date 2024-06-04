@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Diploma\\WebApplicationD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\mapper\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:mapper\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\controllers\\autorisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:controllers\\autorisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\controllers\\newsgeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:controllers\\newsgeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|g:\\diploma\\webapplicationd\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C34B7-58FE-40D0-B206-F7D997D2D3E1}|WebApplicationD.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityMapper.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Mapper\\EntityMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\EntityMapper.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Mapper\\EntityMapper.cs",
+              "RelativeToolTip": "Mapper\\EntityMapper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:57:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorisationController.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Controllers\\AutorisationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorisationController.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Controllers\\AutorisationController.cs",
+              "RelativeToolTip": "Controllers\\AutorisationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:03:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsGeneratorController.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Controllers\\NewsGeneratorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsGeneratorController.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Controllers\\NewsGeneratorController.cs",
+              "RelativeToolTip": "Controllers\\NewsGeneratorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:38:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:35:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PassengerController.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "Controllers\\PassengerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:32:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "G:\\Diploma\\WebApplicationD\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriverController.cs",
+              "ToolTip": "G:\\Diploma\\WebApplicationD\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "Controllers\\DriverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:29:11.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
