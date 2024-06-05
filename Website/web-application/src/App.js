@@ -11,6 +11,7 @@ import Main from './components/main';
 import Post from './components/post';
 import Stories from './components/stories';
 import Test from './components/test'
+import MainPage from './pages/MainPage';
 
 const theme = createTheme();
 
@@ -200,11 +201,7 @@ const newsData = [
 function App() {
   return (
     <div className="App">
-
-      <Stories />
-      <Post />
-      <Post />
-      <Post />
+      <MainPage />
       
     </div>
   );

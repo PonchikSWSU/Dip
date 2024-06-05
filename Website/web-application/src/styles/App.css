@@ -37,6 +37,10 @@
     transform: rotate(360deg);
   }
 }
+
+.main-page {
+  padding-bottom: 20px;
+}
 /**/
 .post {
   border: 1px solid #dce1e6;
