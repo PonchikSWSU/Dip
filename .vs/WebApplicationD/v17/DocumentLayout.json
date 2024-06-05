@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Mapper\\EntityMapper.cs",
               "ToolTip": "G:\\Diploma\\WebApplicationD\\Mapper\\EntityMapper.cs",
               "RelativeToolTip": "Mapper\\EntityMapper.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T11:57:18.838Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Controllers\\AutorisationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T21:03:30.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T21:03:30.963Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Controllers\\NewsGeneratorController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T20:38:16.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T20:38:16.881Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Controllers\\PassengerController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T20:32:54.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T20:32:54.474Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Controllers\\DriverController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T20:29:11.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T20:29:11.458Z"
             }
           ]
         }

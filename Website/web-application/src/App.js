@@ -2,13 +2,15 @@ import './styles/App.css';
 /*import Header from './components/header'
 import Authorization from './components/authorization'
 import TestAuthorization from './components/testAuth'
-import Footer from './components/footer'
+import Footer from './components/footer'*/
 import AuthorizationPage from './pages/AuthorizationPage';
-import RegistrationPage from './pages/RegistrationPage'*/
+import RegistrationPage from './pages/RegistrationPage'
 import NewsFeed from './components/newsFeed';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import Main from './components/main';
 import Post from './components/post';
+import Stories from './components/stories';
+import Test from './components/test'
 
 const theme = createTheme();
 
@@ -190,12 +192,20 @@ const newsData = [
         <NewsFeed news={newsData} />
       </div>
     </ThemeProvider>
+<Post />
+    /*
+          <Test />
   */
 
 function App() {
   return (
     <div className="App">
+
+      <Stories />
       <Post />
+      <Post />
+      <Post />
+      
     </div>
   );
 }

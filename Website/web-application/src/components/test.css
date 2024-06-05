@@ -1,0 +1,101 @@
+.page_block {
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+.stories_feed_wrap {
+    position: relative;
+    width: 100%;
+}
+
+.stories_feed_cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.stories_feed_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.stories_feed_items_wrap {
+    overflow: hidden;
+}
+
+.stories_feed_items_inner {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.stories_feed_items {
+    display: flex;
+    transition: transform 0.3s ease;
+}
+
+.stories_feed_preview_item {
+    width: 100px;
+    height: 200px;
+    margin: 0 5px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.stories_feed_preview_author {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.stories_feed_preview_author_cell {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.stories_feed_preview_author_name {
+    font-size: 14px;
+    text-align: center;
+}
+
+.stories_feed_settings {
+    cursor: pointer;
+}
+
+.stories_feed_arrow_left,
+.stories_feed_arrow_right {
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.stories_feed_arrow_left {
+    left: 0;
+}
+
+.stories_feed_arrow_right {
+    right: 0;
+}
+
+.stories_feed_arrow_right.disabled {
+    display: none;
+}
